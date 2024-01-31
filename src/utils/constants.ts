@@ -1,0 +1,1 @@
+export const xdcMainnetContractAddress = "0xEd7Ce359f615FB11E5359aFcf4a1ECc9e2271966";
